@@ -11,10 +11,10 @@ API_ID = int(getenv("27566053"))
 API_HASH = getenv("d85c5af8900ff04edf6573876a1cdabe")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("7492995638:AAEFjxB4tm3heJrxp6SoMCgQ1xgDezHnUa0")
+BOT_TOKEN = getenv("7492995638:AAHnUihh37DlDskuMuQPCTu3HM470BJTzJ0")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv(""mongodb+srv://sanjayguru413:sanjayguru413@cluster0.sulwobe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"", None)
+MONGO_DB_URI = getenv(""mongodb+srv://Kingbrukh:kingkhan@kingbruh.ra3pjgm.mongodb.net/?retryWrites=true&w=majority"", None)
 
 DURATION_LIMIT_MIN = int(getenv("120", 60))
 
@@ -26,9 +26,9 @@ OWNER_ID = int(getenv("OWNER_ID", 5830360069)
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
+HEROKU_APP_NAME = getenv("paswanbot")
 # Get it from http://dashboard.heroku.com/account
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+HEROKU_API_KEY = getenv("HRKU-e1d4de07-d54a-4150-a432-d9cccce23600")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
@@ -78,10 +78,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/14886956935224ebdd0c5.jpg"
+    "START_IMG_URL", "https://graph.org/file/ff604ef09ea166badd9ba.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/c8183c9f6573f7eb799d2.jpg"
+    "PING_IMG_URL", "https://graph.org/file/ff604ef09ea166badd9ba.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/c8183c9f6573f7eb799d2.jpg"
